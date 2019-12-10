@@ -1,6 +1,6 @@
 # Preact Demo
 
-## Built Wit
+## Built With
 
 - Preact
 - Webpack
