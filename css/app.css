@@ -1,0 +1,27 @@
+html {
+  background: #3c6382;
+  font-family: sans-serif;
+}
+
+.card {
+  border-radius: 1em;
+  border: 2px solid white;
+  box-shadow: 2px 2px 4px black;
+  background: #82ccdd;
+  color: white;
+  max-width: 45%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer,
+.footer a {
+  color: white;
+  text-align: center;
+}
+
+.clock .time {
+  font-weight: bold;
+  font-size: 3rem;
+}
